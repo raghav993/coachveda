@@ -5,8 +5,8 @@
       <div class="row">
         <div class="col-lg-3 col-sm-6">
           <div class="single-footer-widget">
-            <a href="index.html">
-              <img src="assets/images/white-logo.png" alt="Image">
+            <a href="index">
+              <img src="assets/images/cochveda.png" class="main-logo" width="150px" alt="logo">
             </a>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -43,31 +43,31 @@
 
             <ul class="use-link">
               <li>
-                <a href="our-instructors.html">
+                <a href="our-instructors">
                   <i class="ri-arrow-right-line"></i>
                   Our Instructors
                 </a>
               </li>
               <li>
-                <a href="contact-us.html">
+                <a href="contact-us">
                   <i class="ri-arrow-right-line"></i>
                   Contact Us
                 </a>
               </li>
               <li>
-                <a href="privacy-policy.html">
+                <a href="privacy-policy">
                   <i class="ri-arrow-right-line"></i>
                   Privacy Policy
                 </a>
               </li>
               <li>
-                <a href="terms-conditions.html">
+                <a href="terms-conditions">
                   <i class="ri-arrow-right-line"></i>
                   Terms Conditions
                 </a>
               </li>
               <li>
-                <a href="our-courses.html">
+                <a href="our-courses">
                   <i class="ri-arrow-right-line"></i>
                   Our Courses
                 </a>
@@ -82,31 +82,31 @@
 
             <ul class="use-link">
               <li>
-                <a href="about-us.html">
+                <a href="about-us">
                   <i class="ri-arrow-right-line"></i>
                   About Us
                 </a>
               </li>
               <li>
-                <a href="blog.html">
+                <a href="blog">
                   <i class="ri-arrow-right-line"></i>
                   Blog
                 </a>
               </li>
               <li>
-                <a href="blog-details.html">
+                <a href="blog-details">
                   <i class="ri-arrow-right-line"></i>
                   Blog Details
                 </a>
               </li>
               <li>
-                <a href="our-courses.html">
+                <a href="our-courses">
                   <i class="ri-arrow-right-line"></i>
                   Our Courses
                 </a>
               </li>
               <li>
-                <a href="terms-conditions.html">
+                <a href="terms-conditions">
                   <i class="ri-arrow-right-line"></i>
                   Terms Conditions
                 </a>
@@ -128,14 +128,13 @@
               </li>
               <li>
                 <i class="ri-mail-line"></i>
-                <span>Email Us</span>
-                <a href="https://templates.hibootstrap.com/cdn-cgi/l/email-protection#2048454c4c4f604a5546410e434f4d"><span
-                    class="__cf_email__" data-cfemail="1179747d7d7e517b6477703f727e7c">[email&#160;protected]</span></a>
+                <span>Email Us</span> cochveda.info@gmail.com
+
               </li>
               <li>
                 <i class="ri-map-pin-line"></i>
                 <span>Location</span>
-                PO Box 567 Hostin st. 433, Los Angeles California, US.
+                India
               </li>
             </ul>
           </div>
@@ -154,7 +153,7 @@
   <!-- End Copyright Area -->
 </div>
 <!-- End Footer Area -->
-
+</div>
 <!-- Start Go Top Area -->
 <div class="go-top">
   <i class="ri-arrow-up-s-fill"></i>

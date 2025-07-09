@@ -1,0 +1,17 @@
+# Ignore config directory
+config/
+
+# Ignore .htaccess files
+# .htaccess
+
+# Ignore other common files
+*.log
+
+# Ignore vendor (if using composer)
+vendor/
+
+# Ignore environment files
+.env
+# .github/workflows/deploy.yml
+
+

@@ -22,7 +22,7 @@
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
     <!-- Title -->
-    <title>CodeVeda - Education Training & Online Courses HTML Template</title>
+    <title>CoachVeda - Education Training & Online Courses HTML Template</title>
 </head>
 
 <body>
@@ -41,8 +41,8 @@
                 <div class="mobile-responsive-menu">
                     <div class="logo">
                         <a href="/">
-                            <img src="assets/images/codeveda.png" class="main-logo" alt="logo">
-                            <img src="assets/images/codeveda.png" class="white-logo" alt="logo">
+                            <img src="assets/images/cochveda.png" class="main-logo" width="150px" alt="logo">
+                            <img src="assets/images/cochveda.png" class="white-logo" width="150px" alt="logo">
                         </a>
                     </div>
                 </div>
@@ -53,8 +53,8 @@
             <div class="container-fluid">
                 <nav class="navbar navbar-expand-md navbar-light">
                     <a class="navbar-brand" href="index">
-                        <img src="assets/images/codeveda.png" class="main-logo" alt="logo">
-                        <img src="assets/images/codeveda.png" class="white-logo" alt="logo">
+                        <img src="assets/images/cochveda.png" class="main-logo" width="150px" alt="logo">
+                        <img src="assets/images/cochveda.png" class="white-logo" width="150px" alt="logo">
                     </a>
 
                     <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
@@ -63,9 +63,7 @@
                                 <a href="index" class="nav-link">
                                     Home
                                 </a>
-
                             </li>
-
                             <li class="nav-item">
                                 <a href="#" class="nav-link dropdown-toggle">
                                     Pages
@@ -264,3 +262,4 @@
         </div>
     </div>
     <!-- End Navbar Area -->
+    <div class="container">

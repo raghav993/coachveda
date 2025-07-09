@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- Mirrored from templates.hibootstrap.com/CodeVeda/default/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Mar 2025 05:46:06 GMT -->
+<!-- Mirrored from templates.hibootstrap.com/CoachVeda/default/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Mar 2025 05:46:06 GMT -->
 
 <head>
 	<!-- Required meta tags -->
@@ -26,7 +26,7 @@
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png">
 	<!-- Title -->
-	<title>CodeVeda - Education Training & Online Courses HTML Template</title>
+	<title>CoachVeda - Education Training & Online Courses HTML Template</title>
 </head>
 
 <body>
@@ -482,7 +482,8 @@
 		<div class="copy-right-area">
 			<div class="container">
 				<div class="copy-right-content">
-					<p>© CodeVeda is Proudly Owned by <a href="https://hibootstrap.com/" target="_blank">HiBootstrap</a>
+					<p>© CoachVeda is Proudly Owned by <a href="https://hibootstrap.com/"
+							target="_blank">HiBootstrap</a>
 					</p>
 				</div>
 			</div>
@@ -517,6 +518,6 @@
 	<script src="assets/js/custom.js"></script>
 </body>
 
-<!-- Mirrored from templates.hibootstrap.com/CodeVeda/default/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Mar 2025 05:46:06 GMT -->
+<!-- Mirrored from templates.hibootstrap.com/CoachVeda/default/404.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 18 Mar 2025 05:46:06 GMT -->
 
 </html>
